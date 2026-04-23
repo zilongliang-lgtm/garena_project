@@ -1,2 +1,3 @@
 a=11
-character_id="zs"
+character_id="ls"
+group="ls"
