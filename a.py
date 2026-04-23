@@ -1,3 +1,7 @@
-a=11
-character_id="laowang"
-group="gg"
+a=100
+character_id="i am a character"
+group="sg"
+
+
+def test():
+    print(a)
