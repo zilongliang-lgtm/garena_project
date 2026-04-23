@@ -6,3 +6,5 @@ username = "zs"
 context="zs"
 guest="ls"
 
+def a(character_id):
+    return character_id
