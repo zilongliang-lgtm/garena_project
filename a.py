@@ -5,3 +5,7 @@ group="sg"
 
 def test():
     print(a)
+
+
+def test2():
+    print(character_id)
