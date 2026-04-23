@@ -1,6 +1,6 @@
 company = "company"
 
-a=100
+a=10011111
 character_id="i am a character"
 group="us"
 username = "username"
