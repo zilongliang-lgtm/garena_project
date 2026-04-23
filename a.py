@@ -1,3 +1,3 @@
-a=11
-character_id="ls"
-group="ls"
+a=33
+character_id="laowang"
+group="qaq"
