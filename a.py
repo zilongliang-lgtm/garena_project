@@ -1,3 +1,4 @@
+
 a=100
 character_id="i am a character"
 group="us"
@@ -8,3 +9,4 @@ def test():
 
 def test2():
     print(character_id)
+
