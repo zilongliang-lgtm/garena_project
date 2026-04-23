@@ -1,6 +1,6 @@
 a=100
 character_id="i am a character"
-group="sg"
+group="us"
 def test():
     print(a)
 
