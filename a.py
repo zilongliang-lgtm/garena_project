@@ -3,7 +3,7 @@ company = "company"
 a=10011111
 character_id="i am a character"
 group="us"
-username = "username"
+username = "missing"
 def test():
     print(a)
 
@@ -13,3 +13,6 @@ def test2():
 
 def test3():
     print(group)
+
+def test4():
+    print(username)
