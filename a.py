@@ -9,7 +9,7 @@ def test():
 
 
 def test2():
-    print(character_id)
+    print(company)
 
 def test3():
     print(group)
