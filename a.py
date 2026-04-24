@@ -16,3 +16,6 @@ def test3():
 
 def test4():
     print(username)
+
+def test5():
+    print(character_id)
