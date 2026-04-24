@@ -10,3 +10,6 @@ def test():
 
 def test2():
     print(character_id)
+
+def test3():
+    print(group)
